@@ -1,0 +1,4 @@
+- 👋 Hi, I’m jigar.
+- 👀 I’m interested in coding.
+- 🌱 I’m currently learning web development, DBMS, DSA.
+- 😄 Pronouns: he/him/his.

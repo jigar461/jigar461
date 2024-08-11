@@ -2,4 +2,3 @@
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning web development, DBMS, DSA.
 - 😄 Pronouns: he/him/his.
-- fun fact : What if Nihilism is real!
